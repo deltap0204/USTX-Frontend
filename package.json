@@ -1,0 +1,55 @@
+{
+  "name": "crypt",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@kunukn/react-collapse": "^2.0.10",
+    "@types/classnames": "^2.2.7",
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.11.3",
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.9.0",
+    "@types/react-redux": "^7.0.3",
+    "@types/react-router-dom": "^4.3.1",
+    "@types/redux": "^3.6.0",
+    "axios": "^0.18.0",
+    "chart.js": "^2.7.3",
+    "chartjs-plugin-annotation": "^0.5.7",
+    "classnames": "^2.2.6",
+    "dotenv": "^7.0.0",
+    "mdbreact": "^4.11.0",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.4",
+    "react-accessible-accordion": "^2.4.5",
+    "react-chartjs-2": "^2.7.4",
+    "react-collapsible": "^2.6.0",
+    "react-dom": "^16.9.0",
+    "react-particles-js": "^2.4.2",
+    "react-redux": "^6.0.1",
+    "react-router": "^5.0.1",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "typescript": "^3.3.3333"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "chromedriver": "^76.0.0",
+    "mocker-data-generator": "^2.6.6",
+    "nightwatch": "^1.2.1"
+  }
+}

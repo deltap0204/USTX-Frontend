@@ -1,0 +1,1240 @@
+@media (min-width: 1281px) and (max-width:1400px) {
+  body{
+      overflow-x: hidden;
+ }
+  .gold_taken_btn {
+      width: 560px;
+      height: 72px;
+      border: 1px dotted #91f9e580;
+      display: block;
+      text-align: center;
+      border-radius: 35px;
+      vertical-align: middle;
+      padding: 20px;
+      font-size: 24px;
+      font-family: gilroybold;
+      color: #ffffff !important;
+      margin: 0 auto 27px auto;
+ }
+  .graphsection {
+      background-color: #01756EE6;
+      height: 129px;
+      margin-top: 75vh;
+      position: absolute;
+      width: 100%;
+      padding-top: 20px;
+      bottom: 7vh;
+ }
+}
+@media (max-width:767px) {
+  .h1, h1 {
+      font-size: 30px;
+ }
+  .middsection_form.top-spac {
+      margin-bottom: 0;
+ }
+  .align_div {
+      padding: 20px;
+ }
+  .view_statement .forgetpass {
+      font-size: 16px;
+ }
+ .register .check_txt {
+  font-size: 18px;
+  color: #333;
+  padding-left: 10px;
+  margin-top: 0px;
+}
+  .check_txt {
+      font-size: 18px;
+      color: #333;
+      padding-left: 10px;
+      margin-top: 17px;
+ }
+  .header_box_inner {
+      background: #008D72;
+      height: 69px;
+      padding-top: 9px;
+ }
+  .forgetpass1 {
+      text-align: center;
+ }
+  .paymentbtn {
+      padding: 17px 45px;
+      border: 1px solid #ccc;
+      border-radius: 35px;
+      color: #666;
+      position: relative;
+      width: 78%;
+      display: block;
+      text-align: center;
+      margin: 0 auto;
+ }
+  .pay-card .achbg::before {
+      content: url('../img/ach.png');
+      position: absolute;
+      left: 36px;
+ }
+  .pay-card .credit::before {
+      content: url('../img/card.png');
+      position: absolute;
+      left: 44px;
+ }
+  .registerbox .left-txt {
+      text-align: left;
+      display: flex;
+      display: flex;
+      align-items: self-start;
+ }
+  .linksent::after {
+      content: url('../img/emailedit.png');
+      padding-right: 0px;
+ }
+  .linksent {
+      line-height: 25px;
+ }
+  .login-btn-withoutcheckout {
+      border: 2px solid #5B605F;
+      text-align: center;
+      display: inline-block;
+      padding: 18px 66px;
+      padding-right: 13px;
+      padding-right: 66px;
+      padding-right: 15px;
+      font-size: 16px;
+      color: #5B605F;
+      background: #fff;
+      border-radius: 96px;
+      font-weight: 800;
+      margin:10px;
+      width: 98%;
+      background: url('../img/cat.png') no-repeat left;
+ }
+  .login-btn-checkout {
+      border: 2px solid #29B89D;
+      text-align: center;
+      display: inline-block;
+      padding: 18px 66px;
+      padding-right: 66px;
+      padding-right: 10px;
+      font-size: 16px;
+      color: #29B89D;
+      background: #fff;
+      border-radius: 96px;
+      font-weight: 800;
+      margin: 21px 10px;
+      background: url('../img/cat.png') no-repeat left;
+      width: 90%;
+ }
+  .paybox {
+      margin: 10px;
+ }
+  .personalinput {
+      font-size: 20px;
+ }
+  .inputlabel {
+      font-size: 15px;
+ }
+  .tablinks {
+      color: #999999;
+      font-size: 24px;
+      background: #fff;
+      border: none;
+      padding: 5px 20px;
+ }
+  .textlabel2 {
+      font-size: 24px;
+ }
+  .change_psd_btn {
+      border: 2px solid #5B605F;
+      text-align: center;
+      display: inline-block;
+      padding: 18px 66px;
+      font-size: 13px;
+      color: #5B605F;
+      background: #fff;
+      border-radius: 96px;
+      font-weight: 800;
+      margin: 15px 0;
+      width: 100%;
+ }
+  .textlabel1 {
+      font-size: 16px;
+ }
+  .addedcolor {
+      font-size: 18px;
+ }
+  .timebox {
+      width: 100%;
+ }
+  .tokensub {
+      font-size: 18px;
+ }
+  .view {
+      text-align: center;
+      width: 100%;
+ }
+  .paymenttable label {
+      font-size: 18px;
+      color: #999999;
+      line-height: 0px;
+ }
+  .font-40 {
+      font-size: 30px;
+ }
+  .tokencontent {
+      display: block;
+ }
+  .added {
+      width: 100%;
+      text-align: center;
+ }
+  .timer {
+      display: inline-block;
+      padding: 4px 5px;
+      border: 1px solid #ccc;
+      border-radius: 50%;
+      height: 30px;
+      width: 30px;
+      margin-right: 15px;
+      font-size: 15px;
+ }
+  .subtract {
+      width: 100%;
+      text-align: center;
+ }
+  .edit_profile {
+      border: 2px solid #29B89D;
+      text-align: center;
+      display: inline-block;
+      padding: 18px 66px;
+      font-size: 13px;
+      color: #29B89D;
+      background: #fff;
+      border-radius: 96px;
+      font-weight: 800;
+      margin: 15px 0;
+      width: 100%;
+ }
+  .stripform {
+      font-size: 31px;
+      color: #999999;
+      font-family: gilroybold;
+      padding: 24px 0;
+      line-height: 35px;
+ }
+  .credit::before {
+      content: url('../img/card.png');
+      position: absolute;
+      left: 15px;
+ }
+  .achbg::before {
+      content: url('../img/ach.png');
+      position: absolute;
+      left: 49px;
+ }
+  .boxflex {
+      display: block;
+      align-items: center;
+      margin-bottom: 20px;
+ }
+  .labeltxt {
+      text-align: left;
+ }
+  .mmy {
+      width: 59%;
+      border-radius: 35px 0 0 35px;
+      float: left;
+ }
+  .inputtext1 {
+      padding: 15px 0 15px 21px;
+ }
+  .cvc {
+      width: 39%;
+ }
+  .backup-box {
+      background: #EEF2F5;
+      border-radius: 45px;
+      padding: 20px;
+      font-size: 16px;
+      color: #333;
+      margin: 0;
+      overflow-wrap: break-word;
+      height: auto;
+ }
+  .walletinfoheading {
+      margin-bottom: 20px;
+      height: auto;
+ }
+  .entertxtnew {
+      font-size: 20px;
+ }
+  .left-spac {
+      padding: 0 10px;
+ }
+  .login-btn {
+      border: 2px solid #29B89D;
+      text-align: center;
+      display: inline-block;
+      padding: 18px 26px;
+      width: 100%;
+ }
+  .onluhome .sticky .menu {
+      background: #29B89D !important;
+ }
+  .header_box {
+      height: 100vh;
+      padding-top:30px;
+ }
+  .backbtn {
+      position: static;
+      display: block;
+ }
+  .buybox , .sellbox {
+      padding: 26px 10px;
+      margin: 10px;
+ }
+  .formgold {
+      display: block;
+ }
+  .entertxtnew {
+      font-size: 22px;
+      line-height: 20px;
+ }
+  .formgold div{
+      margin-bottom: 20px;
+ }
+  .loginbox {
+      border: 4px solid #EEF2F5;
+      padding: 10px;
+      border-radius: 10px;
+      margin: 20px;
+ }
+  .login {
+      padding: 30px 10px;
+ }
+  .login-btn {
+      margin: 0px auto;
+ }
+  .inputtext {
+      margin-bottom: 26px;
+ }
+  .contact-txt {
+      display: block;
+      padding-top: 0;
+ }
+  .countryimg img{
+      margin: 0 auto;
+ }
+  .countryimg {
+      width: 100%;
+ }
+  .gold_taken_btn_header {
+      display: none;
+ }
+  .wrapper{
+      width:100%;
+      overflow-x: hidden;
+ }
+  .aboutsection p {
+      padding-left: 0;
+ }
+  .contactbox .login-btn {
+      padding: 15px;
+ }
+  .contact-txt h1{
+      text-align: center;
+ }
+  .top-spac {
+      margin-top: 5px;
+ }
+  .font-18 {
+      font-size: 14px;
+      color: #999999;
+ }
+  .aboutpera {
+      font-size: 16px;
+ }
+  .subheading {
+      background-position: center;
+      text-align: center;
+ }
+  sup {
+      top: -0.5em;
+      padding: 5px;
+ }
+  .ratetxt {
+      font-size: 14px;
+ }
+  body{
+      overflow-x: hidden !important;
+ }
+  .headbig {
+      text-align: center;
+      font-size: 44px;
+ }
+  #particles-js {
+      position: relative;
+      width: 100%;
+      height: 100vh;
+ }
+  .gold_btn {
+      padding: 15px;
+      margin: 10px 20px;
+      box-shadow: 0 0 20px -3px #fff;
+      background: transparent !important;
+      border: 1px solid #fff !important;
+      color: #fff !important;
+ }
+  .currency_price .font-38 {
+      font-size: 16px;
+      font-family: gilroybold;
+ }
+  .gold_taken_btn {
+      width: 346px;
+      height: 56px;
+      border: 1px dotted #91f9e580;
+      display: block;
+      text-align: center;
+      border-radius: 35px;
+      padding: 16px;
+      font-size: 16px;
+      font-family: gilroybold;
+      color: #ffffff !important;
+      margin: 0 auto 27px auto;
+ }
+  .graphsection {
+      background-color: #01756EE6;
+      height: auto;
+      margin-top: 0;
+      width: 100%;
+      padding-top: 20px;
+      bottom: auto;
+      margin-bottom: 100px;
+ }
+  .sell_btn {
+      margin: 15px 20px;
+      padding: 15px;
+      background: transparent !important;
+      border: 1px solid #fff !important;
+      color: #fff !important;
+ }
+  .sell_btn:hover{
+      color: #fff !important;
+ }
+  .ratingproce {
+      margin-bottom: 4px !important;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 20px;
+ }
+  .font-44 {
+      font-size: 22px;
+ }
+  .stepbox {
+      display: block;
+      margin-top: 50px;
+ }
+  .step3 {
+      margin: 0 auto;
+ }
+  .sticky .brand {
+      height: 62px;
+ }
+  .step1 {
+      margin: 0 auto;
+ }
+  .step2 {
+      margin: 0 auto;
+ }
+  .bigheading {
+      font-size: 30px;
+      text-align: center;
+ }
+  .header_text_section {
+      left: 0%;
+ }
+  .aboutsection {
+      background: url('../img/aboutbg.png') no-repeat right;
+      margin-top: 298px;
+ }
+  .currency_price.col-md-4.col-sm-4.col-xs-4.center-txt {
+      margin-top: 40px;
+ }
+  .top-price{
+      margin-top: 60px !important;
+ }
+  .outerfeaturbx {
+      border: 1px solid #29B89D33;
+      padding: 30px;
+      border-radius: 20px;
+      position: relative;
+      width: 100%;
+      height: 232px;
+      margin: 0;
+      margin-bottom: 0px;
+      cursor: pointer;
+      margin-bottom: 20px;
+ }
+  .aboutpera {
+      text-align: center;
+ }
+  .no-img{
+      display: none;
+ }
+  .font-44 {
+      font-size: 30px;
+ }
+  .pull-right {
+      float: left !important;
+ }
+  .sticky .menu {
+      top: 0;
+ }
+  .sticky .menu .hamburger {
+      background: #fff;
+ }
+  .sticky .menu .hamburger::before, .sticky .menu .hamburger::after {
+      background: #fff;
+ }
+  .open.sticky .hamburger {
+      background: transparent;
+ }
+  .open .hamburger {
+      background-color: transparent;
+ }
+  .open .hamburger::before {
+      -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      transform: rotate(45deg);
+ }
+  .open .hamburger::after {
+      -webkit-transform: rotate(-45deg) translate(2px, -2px);
+      -ms-transform: rotate(-45deg) translate(2px, -2px);
+      transform: rotate(-45deg) translate(2px, -2px);
+ }
+  .nav .brand {
+      padding: 15px 60px;
+      line-height: 30px;
+      padding-top: 12px;
+ }
+  .menu {
+      display: block;
+      outline: none;
+      position: relative;
+      line-height: 60px;
+      float: right;
+     ;
+      right: 20px;
+      top: 0px;
+      width: 60px;
+      height: 50px;
+      background: none;
+      border: 0;
+      padding: 0;
+      margin: 0;
+      cursor: pointer;
+      opacity: 0.7;
+      -webkit-transition: opacity 150ms;
+      transition: opacity 150ms;
+ }
+  .menu:hover {
+      opacity: 1;
+ }
+  .hamburger, .hamburger::after, .hamburger::before {
+      margin: 0 auto;
+      display: block;
+      width: 24px;
+      height: 3px;
+      line-height: 0;
+      -webkit-transition: all 150ms;
+      transition: all 150ms;
+ }
+  .hamburger::before {
+      content: "";
+      -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      transform: rotate(45deg);
+      background: #fff;
+ }
+  .hamburger::after {
+      content: "";
+      -webkit-transform: rotate(-45deg) translate(2px, -2px);
+      -ms-transform: rotate(-45deg) translate(2px, -2px);
+      transform: rotate(-45deg) translate(2px, -2px);
+      background: #fff;
+ }
+  .hamburger {
+      background: #fff;
+ }
+  .hamburger::after {
+      -webkit-transform: translateY(5px);
+      -ms-transform: translateY(5px);
+      transform: translateY(5px);
+ }
+  .hamburger::before {
+      -webkit-transform: translateY(-8px);
+      -ms-transform: translateY(-8px);
+      transform: translateY(-8px);
+ }
+ /*.collapse nav{
+      -webkit-transform:translateY(-100%);
+      -ms-transform:translateY(-100%);
+      transform:translateY(-100%);
+ }
+ */
+  .navbar {
+      -webkit-transition: -webkit-transform 150ms;
+      transition: transform 150ms;
+ }
+  .middsection_form {
+      margin: 20px 0;
+ }
+  ul.navbar {
+      -webkit-transform: translate(0);
+      -ms-transform: translate(0);
+      transform: translate(0);
+      transform: translateY(0);
+      padding-left: 0;
+      padding-top: 30px;
+      background: #fff;
+      width: 100%;
+      box-shadow: 0 0 20px -2px #ccc;
+      padding-bottom: 20px;
+      display: none;
+ }
+  ul.navbar li {
+      line-height: 20px;
+      display: block;
+ }
+  .login_btn {
+      background: #29B89D;
+      padding: 12px 24px;
+      color: #ffffff !important;
+      border-radius: 35px;
+ }
+  .open .navbar {
+      -webkit-transform: translate(0, 0);
+      -ms-transform: translate(0, 0);
+      transform: translate(0, 0);
+      background: #fff;
+      width: 100%;
+      margin-top: 20px;
+      padding: 30px;
+      height: 100vh;
+ }
+  .nav .brand {
+      display: block;
+      text-align: center;
+      float: none;
+ }
+  .sticky .brand {
+      background-color: white;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+      margin-top: -9px;
+ }
+  #nav {
+      height: 100px;
+ }
+  #nav.open {
+      height: auto;
+      min-height: 100%;
+ }
+  #nav.sticky {
+      height: 60px;
+ }
+  #nav .open.sticky {
+      height: auto;
+ }
+  .nav ul li a {
+      color: #028f76;
+ }
+}
+@media (min-width: 1001px) and (max-width: 1140px) {
+  .header_text_section {
+      margin: 0vh auto;
+      left: 0% !important;
+ }
+  .outerfeaturbx {
+      border: 1px solid #29B89D;
+      padding: 13px;
+      border-radius: 20px;
+      position: relative;
+      width: 100%;
+      height: 183px;
+      margin: 4%;
+      cursor: pointer;
+ }
+  .maskview {
+      padding-top: 33px !important;
+ }
+  .step1 {
+      height: 200px;
+ }
+  .step2 {
+      height: 200px;
+ }
+  .step3 {
+      height: 200px;
+ }
+  .pera {
+      font-size: 16px;
+ }
+}
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .pera {
+      font-size: 16px;
+ }
+  .outerfeaturbx {
+      border: 1px solid #29B89D;
+      padding: 10px;
+      border-radius: 20px;
+      position: relative;
+      width: 351px;
+      height: 160px;
+      margin-bottom: 15px;
+      cursor: pointer;
+ }
+  .textlabel2 {
+      font-size: 24px;
+ }
+  .textlabel3 {
+      font-size: 20px;
+ }
+  .tablinks {
+      color: #999999;
+      font-size: 22px;
+ }
+  .inputlabel {
+      font-size: 16px;
+ }
+  .addedcolor {
+      font-size: 16px;
+ }
+  .textlabel1 {
+      font-size: 16px;
+ }
+  .textlabel2 {
+      font-size: 24px;
+ }
+  .font-40 {
+      font-size: 32px;
+      font-family: Gilroymedium;
+ }
+  .personalinput {
+      font-size: 20px;
+ }
+  .maskview {
+      padding-top: 33px !important;
+ }
+  .featurebox {
+      background: #FEFEF6;
+      margin-top: 22px;
+ }
+ /* .pay-card .inputtext1 {
+      border: 2px solid #B0C7C5;
+      border-radius: 35px;
+      padding: 28px 61px;
+ }
+  */
+  .mmy {
+      width: 70%;
+      border-radius: 35px 0 0 35px !important;
+      float: left;
+ }
+  .cvc {
+      width: 30%;
+      border-radius: 0 35px 35px 0 !important;
+      padding: 31px 0 31px 57px;
+ }
+  .pay-card {
+      padding: 30px 232px !important;
+ }
+  .contactbox .inputtext {
+      border: 1px solid #B0C7C5;
+      border-radius: 35px;
+      padding: 28px 15px;
+      color: #666666;
+      font-size: 16px;
+      margin-bottom: 25px;
+ }
+  .stripform {
+      font-size: 47px;
+      color: #999999;
+      font-family: gilroybold;
+      padding: 29px 0;
+ }
+  .credit::before {
+      content: url('../img/card.png');
+      position: absolute;
+      left: 157px;
+ }
+  .achbg::before{
+      content: url('../img/ach.png');
+      position: absolute;
+      left: 217px;
+ }
+  .pay-card .achbg::before {
+      content: url('../img/ach.png');
+      position: absolute;
+      left: 156px;
+ }
+  .inputtext{
+      border:1px solid #B0C7C5;
+      margin-bottom: 32px;
+ }
+  .ach::before {
+      left: 31px;
+      top: 12px;
+ }
+  .card::before {
+      left: 27px;
+      top: 16px;
+ }
+  .top-head {
+      margin-top: 34px;
+ }
+  .nav ul li {
+      text-align: center;
+      display: inline-block;
+      list-style: none;
+      padding: 10px;
+ }
+  .entertxt {
+      font-size: 24px;
+ }
+  .login {
+      padding: 26px 60px;
+ }
+  .bigheading {
+      font-size: 36px;
+ }
+  .gold_taken_btn_header {
+      margin-top: 0;
+      border: 1px dotted #91f9e580;
+      display: inline-block;
+      text-align: center;
+      border-radius: 99px;
+      vertical-align: middle;
+      padding: 9px 15px;
+      font-size: 13px;
+      font-family: gilroybold;
+      color: #ffffff !important;
+      line-height: 30px;
+ }
+  .step1 {
+      height: 195px;
+      width: 195px;
+ }
+  .step2 {
+      height: 195px;
+      width: 195px;
+ }
+  .step3 {
+      height: 195px;
+      width: 195px;
+ }
+  #particles-js {
+      position: relative;
+      width: 100%;
+      height: 100vh;
+      background-image: linear-gradient(#018E74, #12AAA6), url("");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 50% 50%;
+ }
+  .graphsection {
+      background-color: #01756EE6;
+      height: 129px;
+      margin-top: 111vh;
+      position: absolute;
+      width: 100%;
+      padding-top: 20px;
+      bottom: 0vh;
+ }
+  .nav .brand {
+      padding: 30px 60px;
+      line-height: 30px;
+      line-height: 100px;
+      padding-left: 10px;
+ }
+  body{
+      overflow-x: hidden;
+ }
+  .gold_taken_btn {
+      margin: 0 auto 20px auto;
+ }
+  .header_text_section {
+      margin: 0vh auto;
+      left: 3%;
+ }
+  .aboutsection {
+      margin-top: 202px;
+ }
+  .nav ul li a {
+      font-size: 16px;
+      font-family: gilroysemibold;
+ }
+  .font-44 {
+      font-size: 40px;
+ }
+  .gold_taken_btn {
+      width: 472px;
+      height: 64px;
+      border-radius: 35px;
+      vertical-align: middle;
+      padding: 17px;
+      font-size: 22px;
+ }
+  .subtxt {
+      font-size: 22px;
+ }
+  .headbig {
+      font-size: 50px;
+ }
+  .aboutpera {
+      font-size: 16px;
+ }
+  .font21semibold {
+      font-size: 16px;
+ }
+  .pera {
+      font-size: 16px;
+ }
+  .top-spac {
+      margin-top: 10px;
+ }
+  .entertxtnew {
+      font-size: 26px;
+ }
+  .login-btn {
+      border: 2px solid #29B89D;
+      text-align: center;
+      display: inline-block;
+      padding: 15px 77px;
+      font-size: 17px;
+      color: #29B89D;
+      background: #fff;
+      border-radius: 96px;
+      font-weight: 800;
+      display: flex;
+     /* margin: 34px auto;
+      */
+ }
+  .buybox , .sellbox {
+      border: 4px solid #EEF2F5;
+      padding: 26px 174px;
+      border-radius: 10px;
+      margin: 57px 83px;
+      position: relative;
+ }
+  .loginbox {
+      border: 4px solid #EEF2F5;
+      padding: 26px 157px;
+      border-radius: 10px;
+      margin: 57px 150px;
+ }
+  .img-space{
+      padding: 25px;
+ }
+}
+@media (min-width: 768px) and (max-width: 1000px) {
+  .header_text_section {
+      top: 100px;
+      left: 0;
+ }
+  .paybox {
+      margin: 22px;
+ }
+  .textlabel2 {
+      font-size: 22px;
+ }
+  .textlabel1 {
+      font-size: 14px;
+ }
+  .paymenttable label {
+      font-size: 16px;
+ }
+  .tablinks {
+      color: #999999;
+      font-size: 22px;
+ }
+  .timebox {
+      width: 60%;
+ }
+  .timer {
+      display: inline-block;
+      padding: 9px 10px;
+      border: 1px solid #ccc;
+      border-radius: 50%;
+      height: 40px;
+      width: 40px;
+      margin-right: 15px;
+      font-size: 16px;
+ }
+  .font-40 {
+      font-size: 30px;
+ }
+  .tokensub {
+      font-size: 14px;
+ }
+  .addedcolor {
+      font-size: 16px;
+ }
+  .personalinput {
+      font-size: 18px;
+ }
+  .inputlabel {
+      font-size: 14px;
+ }
+  .container {
+      width: 100%;
+ }
+  .credit::before{
+      content: url('../img/card.png');
+      position: absolute;
+      left: 218px;
+ }
+  .achbg::before{
+      content: url('../img/ach.png');
+      position: absolute;
+      left: 218px;
+ }
+  .stripform {
+      font-size: 43px;
+      color: #999999;
+      font-family: gilroybold;
+      padding: 19px 0;
+ }
+  .left-spac {
+      padding: 0 100px;
+ }
+  .login {
+      padding: 29px 60px;
+ }
+  .boxflex {
+      display: block;
+ }
+  .onluhome .sticky .menu {
+      background: #29B89D !important;
+ }
+  .buybox , .sellbox {
+      border: 4px solid #EEF2F5;
+      padding: 10px;
+      border-radius: 10px;
+      margin: 30px 0;
+ }
+  .menu {
+      display: block;
+      outline: none;
+      position: relative;
+      line-height: 60px;
+      float: right;
+     ;
+      right: 20px;
+      top: 20px;
+      width: 60px;
+      height: 60px;
+      background: none;
+      border: 0;
+      padding: 0;
+      margin: 0;
+      cursor: pointer;
+      opacity: 0.7;
+      -webkit-transition: opacity 150ms;
+      transition: opacity 150ms;
+ }
+  .menu:hover {
+      opacity: 1;
+ }
+  .hamburger, .hamburger::after, .hamburger::before {
+      margin: 0 auto;
+      display: block;
+      width: 24px;
+      height: 3px;
+      line-height: 0;
+      -webkit-transition: all 150ms;
+      transition: all 150ms;
+ }
+  .hamburger::before {
+      content: "";
+      -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      transform: rotate(45deg);
+      background: #fff;
+ }
+  .hamburger::after {
+      content: "";
+      -webkit-transform: rotate(-45deg) translate(2px, -2px);
+      -ms-transform: rotate(-45deg) translate(2px, -2px);
+      transform: rotate(-45deg) translate(2px, -2px);
+      background: #fff;
+ }
+  .hamburger {
+      background: #fff;
+ }
+  .hamburger::after {
+      -webkit-transform: translateY(5px);
+      -ms-transform: translateY(5px);
+      transform: translateY(5px);
+ }
+  .hamburger::before {
+      -webkit-transform: translateY(-8px);
+      -ms-transform: translateY(-8px);
+      transform: translateY(-8px);
+ }
+ /*.collapse nav{
+      -webkit-transform:translateY(-100%);
+      -ms-transform:translateY(-100%);
+      transform:translateY(-100%);
+ }
+ */
+  .navbar {
+      -webkit-transition: -webkit-transform 150ms;
+      transition: transform 150ms;
+ }
+  ul.navbar {
+      -webkit-transform: 0;
+      -ms-transform: 0;
+      transform: 0;
+      transform: 0;
+      padding-left: 0;
+      width: 100%;
+      display: none;
+      box-shadow: 0 0 20px -2px #ccc;
+      padding-bottom: 0px;
+      z-index: 99999999;
+      position: absolute;
+      top: 97px;
+ }
+  ul.navbar li {
+      line-height: 20px;
+      display: block;
+ }
+  .login_btn {
+      background: #29B89D;
+      padding: 12px 24px;
+      color: #ffffff !important;
+      border-radius: 35px;
+ }
+  .open .navbar {
+      -webkit-transform: translate(0, 0);
+      -ms-transform: translate(0, 0);
+      transform: translate(0, 0);
+      background: #fff;
+      width: 100%;
+      margin-top: 20px;
+      padding: 30px;
+      height: 100vh;
+ }
+  #buyers{
+      width: 100%;
+      margin-top: 5px;
+ }
+  .nav .brand {
+      display: inline-block;
+      text-align: center;
+      float: left;
+      padding-left: 20px !important;
+ }
+  .gold_taken_btn_header {
+      margin-top: -10px;
+      margin-left: 20px;
+ }
+  .sticky .brand {
+      background-color: white;
+ }
+  .contact-txt {
+      display: flex;
+      padding-top: 0;
+      justify-content: center;
+ }
+  #nav {
+      height: 100px;
+ }
+  #nav.open {
+      height: auto;
+      min-height: 100%;
+ }
+  #nav.sticky {
+      height: 107px;
+ }
+  #nav .open.sticky {
+      height: auto;
+ }
+  .nav ul li a {
+      color: #028f76;
+ }
+  .loginbox {
+      border: 4px solid #EEF2F5;
+      padding: 30px 10px;
+      border-radius: 10px;
+      margin: 35px;
+ }
+  .nav .brand {
+      padding: 15px 0px;
+      padding-top: 15px;
+      padding-right: 0px;
+      padding-left: 0px;
+      line-height: 30px;
+      line-height: 100px;
+      padding-left: 0;
+      padding-right: 0px;
+      padding-right: 0px;
+      padding-top: 30px;
+ }
+  .nav ul li {
+      text-align: center;
+      display: inline-block;
+      list-style: none;
+      padding: 15px 11px;
+      cursor: pointer;
+      line-height: 30px;
+      display: block;
+      background: #fff;
+      width: 100%;
+ }
+  .gold_taken_btn {
+      color: #ffffff !important;
+      margin: 0 auto 46px auto;
+ }
+  .font-38 {
+      font-size: 32px;
+      font-family: gilroybold;
+ }
+  .headbig {
+      font-size: 40px;
+ }
+  .aboutpera {
+      font-size: 16px;
+ }
+  .bigheading {
+      font-size: 38px;
+ }
+  .top-spac {
+      margin-top: 40px;
+ }
+  .outerfeaturbx {
+      padding: 30px;
+      width: 321px;
+      height: 232px;
+      margin: 5%;
+      cursor: pointer;
+ }
+  .col-md-5.img-space.aos-init.aos-animate {
+      padding: 50px;
+ }
+}
+@media (min-width: 1600px) and (max-width:1920px) {
+  .buybox , .sellbox {
+      border: 4px solid #EEF2F5;
+      padding: 26px 180px;
+      border-radius: 10px;
+      margin: 50px 100px;
+      position: relative;
+ }
+  .pay-card {
+      padding: 30px 284px;
+ }
+}
