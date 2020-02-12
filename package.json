@@ -48,7 +48,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "chromedriver": "^76.0.0",
+    "chromedriver": "^79.0.0",
     "mocker-data-generator": "^2.6.6",
     "nightwatch": "^1.2.1"
   }

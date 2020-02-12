@@ -44,8 +44,9 @@ class buy extends Component <props_section> {
 
     componentDidMount(): void {
         axios.post(process.env.REACT_APP_BACKEND_PATH + "admin/get_token_price").then(response => {
+            console.log(response)
             if (response.status == 200) {
-                this.setState({TokenPrice: response.data.TokenPrice});
+                this.setState({TokenPrice: response.data.TokenPrice||10});
             } else this.setState({TokenPrice: 10});
         })
 
